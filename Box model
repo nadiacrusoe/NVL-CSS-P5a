@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+ <hmtl>
+  <head>
+  <meta charset="UTF=8">
+  <style>
+   div {
+  width: 740px;
+  padding:32px solid yellow;
+  border: 16px solid orange;
+  margin: 10px solid red;
+  background-color: dark pink;
+}
+img{
+margin-top: 20px;
+display: inline-block;
+height: 100%;
+left: 0;
+position: absolute;
+right: 0;
+width: 100%;
+}
+  </head>
+<body>
+ <div>
+ <img src=""https://www.pinclipart.com/picdir/middle/74-746717_impressive-judge-simbolo-de-abogado-png-clipart.png" alt="Imagen simbolo de abogado en png" /> 
+ </div>
+</body>
+</html>
